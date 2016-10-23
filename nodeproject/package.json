@@ -10,7 +10,9 @@
     "socket.io": "~0.9.14"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.1"
   },
   "scripts": {
     "test": "echo \"Error: No test specified\" && exit 1",
